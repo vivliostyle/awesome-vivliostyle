@@ -9,6 +9,19 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
+- [Libraries](#libraries)
+  - [React](#react)
+- [Web Apps](#web-apps)
+- [Command-line Tools](#command-line-tools)
+- [Markdown](#markdown)
+- [Editor Integrations](#editor-integrations)
+- [Open Books](#open-books)
+- [Theme / Starter](#theme--starter)
+- [Documentation](#documentation)
+- [Other Awesome Lists](#other-awesome-lists)
+- [License](#license)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
