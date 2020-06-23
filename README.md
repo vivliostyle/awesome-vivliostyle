@@ -12,16 +12,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Libraries](#libraries)
-  - [Node.js](#nodejs)
-  - [React](#react)
-  - [Browser](#browser)
-- [Web Apps](#web-apps)
-- [Command-line Tools](#command-line-tools)
+- [Official](#official)
+- [Apps](#apps)
 - [Editor Integrations](#editor-integrations)
-- [Books & Materials](#books--materials)
-- [Theme & Starters](#theme--starters)
-- [Documentation](#documentation)
+- [Starters & Templates](#starters--templates)
+- [Documentation & Tutorials](#documentation--tutorials)
+- [Built with Vivliostyle](#built-with-vivliostyle)
+  - [Books](#books)
+  - [Slides & Materials](#slides--materials)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
@@ -29,51 +27,52 @@
 
 ---
 
-## Libraries
-
-### Node.js
+## Official
 
 - [@vivliostyle/core](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/core) - A core library for HTML+CSS typesetting with EPUB/Web publications support.
-
-### React
-
-- [@vivliostyle/react](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/react) - Use React component as a Vivliostyle renderer.
-
-### Browser
-
-- [@vivliostyle/print](https://github.com/vivliostyle/vivliostyle-print) - Vivliostyle Print allows page-layouting using Vivliostyle Core for printing within a website without destroying the original layout.
-
-## Web Apps
-
 - [@vivliostyle/viewer](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/viewer) - A web app provides intuitive UI for Vivliostyle.
-
-## Command-line Tools
-
 - [@vivliostyle/cli](https://github.com/vivliostyle/vivliostyle-cli) - A command-line interface of Vivliostyle.
 - [@vivliostyle/vfm](https://github.com/vivliostyle/vfm) - Vivliostyle Flavored Markdown (VFM) is a Markdown syntax optimized for book authoring.
+- [@vivliostyle/react](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/react) - Use React component as a Vivliostyle renderer.
+- [@vivliostyle/print](https://github.com/vivliostyle/vivliostyle-print) - page-layouting using Vivliostyle Core for printing within a website without destroying the original layout.
+
+## Apps
+
+- [incunabula](https://github.com/pnlybubbles/incunabula) - Markdown editor for macOS.
 
 ## Editor Integrations
 
-- [atom-markdown-book-preview](https://github.com/lwohtsu/atom-markdown-book-preview) - Atom Package markdown preview with Vivliostyle.
+- [MDBP: atom-markdown-book-preview](https://github.com/lwohtsu/atom-markdown-book-preview) - Atom Package markdown preview with Vivliostyle.
 
-## Books & Materials
-
-- [tbf06-draft](https://github.com/spring-raining/tbf06-draft) - Vivliostyle で本を作ろう Vol.1.
-- [tbf07-draft](https://github.com/spring-raining/tbf07-draft) - Vivliostyle で本を作ろう Vol.2.
-- [lt01](https://github.com/consortium/lt01) - Der Öffentliche Gesundheitsdienst (ÖGD) v01.
-- [vivliostyle_doc](https://github.com/vivliostyle/vivliostyle_doc) - Presentations and sample documents for Vivliostyle
-
-## Theme & Starters
+## Starters & Templates
 
 - [env-create-book](https://github.com/akabekobeko/env-create-book) - Environment by creating a book with Vivliostyle/vivliostyle-savepdf.
-
+- [markdown-css-typesetting](https://github.com/takanakahiko/markdown-css-typesetting) - Markdown と CSS で組版するテンプレート。
+- [nitac_tex_template](https://github.com/yamasy1549/nitac_tex_template) - レジュメ等を {TeX, CSS 組版} で書く際のテンプレート（電気情報工学科向け）
+- [css_book_template](https://github.com/wamisnet/css_book_template) - Re:VIEW ではなく、CSS で本を書くときに必要になるデータをひとまとめにしました。
 - [vibook](https://github.com/shunito/vibook) - Vivliostyle Book style Theme for Hugo
 - [book-coding](https://github.com/hybrid-publishing-group/book-coding) - Book coding template files.
 - [book_tnm](https://github.com/liarnose/book_tnm) - vivliostyle starter kit for RPG fanzine.
+- [css-print-template](https://github.com/hrhr49/css-print-template) - CSS 組版のテンプレート。
 
-## Documentation
+## Documentation & Tutorials
 
 - [docs.vivliostyle.org](https://github.com/vivliostyle/docs.vivliostyle.org) - 📚 Vivliostyle Documentation.
+
+## Built with Vivliostyle
+
+### Books
+
+- [Vivliostyle で本を作ろう Vol.1](https://github.com/spring-raining/tbf06-draft)
+- [Vivliostyle で本を作ろう Vol.2](https://github.com/spring-raining/tbf07-draft)
+- [Vivliostyle で本を作ろう Vol.3](https://github.com/spring-raining/tbf08-draft)
+- [Der Öffentliche Gesundheitsdienst (ÖGD)](https://github.com/consortium/lt01)
+- [Re:VIEW+CSS 組版やっていき](https://github.com/vvakame/review-css-typesetting)
+- [週刊 IM@Study](https://github.com/imas/imasbook)
+
+### Slides & Materials
+
+- [vivliostyle_doc](https://github.com/vivliostyle/vivliostyle_doc) - Presentations and sample documents for Vivliostyle
 
 ## Other Awesome Lists
 
