@@ -10,7 +10,7 @@
   "repository": "git@github.com:vivliostyle/awesome-vivliostyle.git",
   "husky": {
     "hooks": {
-      "pre-commit": "doctoc . && git add -A"
+      "pre-commit": "doctoc README.md && git add -A"
     }
   },
   "license": "Apache-2.0",
