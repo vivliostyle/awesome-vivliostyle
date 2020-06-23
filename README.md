@@ -4,6 +4,8 @@
 
 > A curated list of libraries/projects around Vivliostyle ecosystem.
 
+[Contribution Guide](CONTRIBUTING.md)
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -11,13 +13,14 @@
 
 
 - [Libraries](#libraries)
+  - [Node.js](#nodejs)
   - [React](#react)
+  - [Browser](#browser)
 - [Web Apps](#web-apps)
 - [Command-line Tools](#command-line-tools)
-- [Markdown](#markdown)
 - [Editor Integrations](#editor-integrations)
-- [Open Books](#open-books)
-- [Theme / Starter](#theme--starter)
+- [Books & Materials](#books--materials)
+- [Theme & Starters](#theme--starters)
 - [Documentation](#documentation)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
@@ -28,12 +31,17 @@
 
 ## Libraries
 
+### Node.js
+
 - [@vivliostyle/core](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/core) - A core library for HTML+CSS typesetting with EPUB/Web publications support.
-- [@vivliostyle/print](https://github.com/vivliostyle/vivliostyle-print) - Vivliostyle Print allows page-layouting using Vivliostyle Core for printing within a website without destroying the original layout.
 
 ### React
 
 - [@vivliostyle/react](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/react) - Use React component as a Vivliostyle renderer.
+
+### Browser
+
+- [@vivliostyle/print](https://github.com/vivliostyle/vivliostyle-print) - Vivliostyle Print allows page-layouting using Vivliostyle Core for printing within a website without destroying the original layout.
 
 ## Web Apps
 
@@ -42,25 +50,24 @@
 ## Command-line Tools
 
 - [@vivliostyle/cli](https://github.com/vivliostyle/vivliostyle-cli) - A command-line interface of Vivliostyle.
-- [env-create-book](https://github.com/akabekobeko/env-create-book) - Environment by creating a book with Vivliostyle/vivliostyle-savepdf.
-- [vibook](https://github.com/shunito/vibook) - Vivliostyle Book style Theme for Hugo
-
-## Markdown
-
 - [@vivliostyle/vfm](https://github.com/vivliostyle/vfm) - Vivliostyle Flavored Markdown (VFM) is a Markdown syntax optimized for book authoring.
 
 ## Editor Integrations
 
 - [atom-markdown-book-preview](https://github.com/lwohtsu/atom-markdown-book-preview) - Atom Package markdown preview with Vivliostyle.
 
-## Open Books
+## Books & Materials
 
 - [tbf06-draft](https://github.com/spring-raining/tbf06-draft) - Vivliostyle で本を作ろう Vol.1.
 - [tbf07-draft](https://github.com/spring-raining/tbf07-draft) - Vivliostyle で本を作ろう Vol.2.
 - [lt01](https://github.com/consortium/lt01) - Der Öffentliche Gesundheitsdienst (ÖGD) v01.
+- [vivliostyle_doc](https://github.com/vivliostyle/vivliostyle_doc) - Presentations and sample documents for Vivliostyle
 
-## Theme / Starter
+## Theme & Starters
 
+- [env-create-book](https://github.com/akabekobeko/env-create-book) - Environment by creating a book with Vivliostyle/vivliostyle-savepdf.
+
+- [vibook](https://github.com/shunito/vibook) - Vivliostyle Book style Theme for Hugo
 - [book-coding](https://github.com/hybrid-publishing-group/book-coding) - Book coding template files.
 - [book_tnm](https://github.com/liarnose/book_tnm) - vivliostyle starter kit for RPG fanzine.
 
