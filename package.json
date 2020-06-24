@@ -1,18 +1,27 @@
 {
   "name": "awesome-vivliostyle",
+  "description": "A curated list of libraries/projects around Vivliostyle ecosystem.",
   "version": "0.0.0",
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io)",
   "devDependencies": {
     "doctoc": "^1.4.0",
-    "husky": "^4.2.5"
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1"
   },
-  "main": "index.js",
-  "repository": "git@github.com:vivliostyle/awesome-vivliostyle.git",
   "husky": {
     "hooks": {
-      "pre-commit": "doctoc README.md && git add -A"
+      "pre-commit": "lint-staged && pretty-quick --staged"
     }
   },
+  "lint-staged": {
+    "*.md": [
+      "doctoc",
+      "git add"
+    ]
+  },
+  "repository": "git@github.com:vivliostyle/awesome-vivliostyle.git",
   "license": "Apache-2.0",
   "private": true
 }
