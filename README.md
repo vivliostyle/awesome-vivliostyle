@@ -11,7 +11,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Official](#official)
 - [Apps](#apps)
 - [Editor Integrations](#editor-integrations)
@@ -35,6 +34,8 @@
 - [@vivliostyle/vfm](https://github.com/vivliostyle/vfm) - Vivliostyle Flavored Markdown (VFM) is a Markdown syntax optimized for book authoring.
 - [@vivliostyle/react](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/react) - Use React component as a Vivliostyle renderer.
 - [@vivliostyle/print](https://github.com/vivliostyle/vivliostyle-print) - page-layouting using Vivliostyle Core for printing within a website without destroying the original layout.
+- [create-book](https://github.com/vivliostyle/create-book) - Fast & frictionless book template generator.
+- [create-vivliostyle-theme](https://github.com/vivliostyle/themes/tree/master/packages/create-vivliostyle-theme) - Create Vivliostyle theme at ease
 
 ## Apps
 
@@ -66,6 +67,7 @@
 - [Vivliostyle で本を作ろう Vol.1](https://github.com/spring-raining/tbf06-draft)
 - [Vivliostyle で本を作ろう Vol.2](https://github.com/spring-raining/tbf07-draft)
 - [Vivliostyle で本を作ろう Vol.3](https://github.com/spring-raining/tbf08-draft)
+- [Vivliostyle で本を作ろう Vol.4](https://github.com/spring-raining/tbf09-draft)
 - [Der Öffentliche Gesundheitsdienst (ÖGD)](https://github.com/consortium/lt01)
 - [Re:VIEW+CSS 組版やっていき](https://github.com/vvakame/review-css-typesetting)
 - [週刊 IM@Study](https://github.com/imas/imasbook)
