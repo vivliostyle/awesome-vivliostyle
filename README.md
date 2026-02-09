@@ -71,6 +71,7 @@
 - [Der Öffentliche Gesundheitsdienst (ÖGD)](https://github.com/consortium/lt01)
 - [Re:VIEW+CSS 組版やっていき](https://github.com/vvakame/review-css-typesetting)
 - [週刊 IM@Study](https://github.com/imas/imasbook)
+- [Die Kleiderbügelsammlung Christian Mahnke](https://christianmahnke.de/en/post/coat-hangers-book/)
 
 ### Slides & Materials
 
