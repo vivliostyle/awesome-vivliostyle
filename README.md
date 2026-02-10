@@ -59,6 +59,7 @@
 ## Documentation & Tutorials
 
 - [docs.vivliostyle.org](https://github.com/vivliostyle/docs.vivliostyle.org) - 📚 Vivliostyle Documentation.
+- [Vivliostyleが拓くCSS組版の可能性](https://gihyo.jp/list/group/Vivliostyle%E3%81%8C%E6%8B%93%E3%81%8FCSS%E7%B5%84%E7%89%88%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7) - gihyo.jp連載記事
 
 ## Built with Vivliostyle
 
@@ -72,6 +73,13 @@
 - [Re:VIEW+CSS 組版やっていき](https://github.com/vvakame/review-css-typesetting)
 - [週刊 IM@Study](https://github.com/imas/imasbook)
 - [Die Kleiderbügelsammlung Christian Mahnke](https://christianmahnke.de/en/post/coat-hangers-book/)
+- [Juliaではじめる数値計算入門](https://gihyo.jp/book/2024/978-4-297-14128-8)
+- [ラズパイPico W かんたんIoT電子工作レシピ](https://gihyo.jp/book/2024/978-4-297-14182-0)
+- [VPythonで見て学ぶ 物理シミュレーション入門](https://gihyo.jp/book/2024/978-4-297-14558-3)
+- [MSX-BASICでゲームを作ろう 懐かしくて新しいMSXで大人になった今ならわかる](https://gihyo.jp/book/2025/978-4-297-14890-4)
+- [ランキング設計からはじめるスポーツデータ分析 ―⁠―MATLABであなたも予測できる](https://gihyo.jp/book/2025/978-4-297-15138-6)
+- [Vulkan実践入門 グラフィックスの基礎からレイトレーシング、メッシュシェーダーまで](https://gihyo.jp/book/2025/978-4-297-15257-4)
+- [API Platformを活用したPHPによる本格的なWeb API開発](https://gihyo.jp/book/2026/978-4-297-15491-2)
 
 ### Slides & Materials
 
