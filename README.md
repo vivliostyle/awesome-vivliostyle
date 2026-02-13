@@ -80,6 +80,12 @@
 - [ランキング設計からはじめるスポーツデータ分析 ―⁠―MATLABであなたも予測できる](https://gihyo.jp/book/2025/978-4-297-15138-6)
 - [Vulkan実践入門 グラフィックスの基礎からレイトレーシング、メッシュシェーダーまで](https://gihyo.jp/book/2025/978-4-297-15257-4)
 - [API Platformを活用したPHPによる本格的なWeb API開発](https://gihyo.jp/book/2026/978-4-297-15491-2)
+- [そろそろ常識？ マンガでわかる「正規表現」](https://www.c-r.com/book/detail/1360)
+- [そろそろ常識？ マンガでわかる「Linuxコマンド」](https://www.c-r.com/book/detail/1404)
+- [そろそろ常識？ マンガでわかる「Excel関数」](https://www.c-r.com/book/detail/1419)
+- [そろそろ常識？ マンガでわかる「Python機械学習」](https://www.c-r.com/book/detail/1420)
+- [そろそろ常識？ マンガでわかる「HTML&CSS」](https://www.c-r.com/book/detail/1460)
+- [Web技術で「本」が作れるCSS組版 Vivliostyle入門](https://www.c-r.com/book/detail/1493)
 
 ### Slides & Materials
 
