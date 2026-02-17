@@ -37,25 +37,6 @@
 - [create-book](https://github.com/vivliostyle/create-book) - Fast & frictionless book template generator.
 - [create-vivliostyle-theme](https://github.com/vivliostyle/themes/tree/master/packages/create-vivliostyle-theme) - Create Vivliostyle theme at ease
 
-## Apps
-
-- [incunabula](https://github.com/pnlybubbles/incunabula) - Markdown editor for macOS.
-
-## Editor Integrations
-
-- [MDBP: atom-markdown-book-preview](https://github.com/lwohtsu/atom-markdown-book-preview) - Atom Package markdown preview with Vivliostyle.
-
-## Starters & Templates
-
-- [env-create-book](https://github.com/akabekobeko/env-create-book) - Environment by creating a book with Vivliostyle/vivliostyle-savepdf.
-- [markdown-css-typesetting](https://github.com/takanakahiko/markdown-css-typesetting) - Markdown と CSS で組版するテンプレート。
-- [nitac_tex_template](https://github.com/yamasy1549/nitac_tex_template) - レジュメ等を {TeX, CSS 組版} で書く際のテンプレート（電気情報工学科向け）
-- [css_book_template](https://github.com/wamisnet/css_book_template) - Re:VIEW ではなく、CSS で本を書くときに必要になるデータをひとまとめにしました。
-- [vibook](https://github.com/shunito/vibook) - Vivliostyle Book style Theme for Hugo
-- [book-coding](https://github.com/hybrid-publishing-group/book-coding) - Book coding template files.
-- [book_tnm](https://github.com/liarnose/book_tnm) - vivliostyle starter kit for RPG fanzine.
-- [css-print-template](https://github.com/hrhr49/css-print-template) - CSS 組版のテンプレート。
-
 ## Documentation & Tutorials
 
 - [docs.vivliostyle.org](https://github.com/vivliostyle/docs.vivliostyle.org) - 📚 Vivliostyle Documentation.
@@ -65,13 +46,6 @@
 
 ### Books
 
-- [Vivliostyle で本を作ろう Vol.1](https://github.com/spring-raining/tbf06-draft)
-- [Vivliostyle で本を作ろう Vol.2](https://github.com/spring-raining/tbf07-draft)
-- [Vivliostyle で本を作ろう Vol.3](https://github.com/spring-raining/tbf08-draft)
-- [Vivliostyle で本を作ろう Vol.4](https://github.com/spring-raining/tbf09-draft)
-- [Der Öffentliche Gesundheitsdienst (ÖGD)](https://github.com/consortium/lt01)
-- [Re:VIEW+CSS 組版やっていき](https://github.com/vvakame/review-css-typesetting)
-- [週刊 IM@Study](https://github.com/imas/imasbook)
 - [Die Kleiderbügelsammlung Christian Mahnke](https://christianmahnke.de/en/post/coat-hangers-book/)
 - [Juliaではじめる数値計算入門](https://gihyo.jp/book/2024/978-4-297-14128-8)
 - [ラズパイPico W かんたんIoT電子工作レシピ](https://gihyo.jp/book/2024/978-4-297-14182-0)
@@ -86,10 +60,6 @@
 - [そろそろ常識？ マンガでわかる「Python機械学習」](https://www.c-r.com/book/detail/1420)
 - [そろそろ常識？ マンガでわかる「HTML&CSS」](https://www.c-r.com/book/detail/1460)
 - [Web技術で「本」が作れるCSS組版 Vivliostyle入門](https://www.c-r.com/book/detail/1493)
-
-### Slides & Materials
-
-- [vivliostyle_doc](https://github.com/vivliostyle/vivliostyle_doc) - Presentations and sample documents for Vivliostyle
 
 ## Other Awesome Lists
 
