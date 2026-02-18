@@ -74,7 +74,7 @@
 - [Web技術で「本」が作れるCSS組版 Vivliostyle入門](https://www.c-r.com/book/detail/1493)
 
 
-## Dependants
+## Dependants (Partial List)
 
 ### [Vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js/network/dependents)
 
