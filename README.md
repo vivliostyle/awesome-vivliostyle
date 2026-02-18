@@ -14,7 +14,7 @@
 - [Official](#official)
 - [Documentation & Tutorials](#documentation--tutorials)
 - [Built with Vivliostyle](#built-with-vivliostyle)
-  - [Books](#books)
+  - [Commercial Books](#commercial-books)
 - [Dependants (Partial List)](#dependants-partial-list)
   - [Vivliostyle.js](#vivliostylejs)
     - [Website](#website)
@@ -57,7 +57,7 @@
 
 ## Built with Vivliostyle
 
-### Books
+### Commercial Books
 
 - [Die Kleiderbügelsammlung Christian Mahnke](https://christianmahnke.de/en/post/coat-hangers-book/)
 - [Juliaではじめる数値計算入門](https://gihyo.jp/book/2024/978-4-297-14128-8)
