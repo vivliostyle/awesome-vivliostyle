@@ -59,7 +59,6 @@
 
 ### Books
 
-- [Die Kleiderbügelsammlung Christian Mahnke](https://christianmahnke.de/en/post/coat-hangers-book/)
 - [Juliaではじめる数値計算入門](https://gihyo.jp/book/2024/978-4-297-14128-8)
 - [ラズパイPico W かんたんIoT電子工作レシピ](https://gihyo.jp/book/2024/978-4-297-14182-0)
 - [VPythonで見て学ぶ 物理シミュレーション入門](https://gihyo.jp/book/2024/978-4-297-14558-3)
