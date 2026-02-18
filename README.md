@@ -91,7 +91,7 @@
 
 - [yas-ako](https://github.com/yas-ako) / [my-vivliostyle-report-template](https://github.com/yas-ako/my-vivliostyle-report-template) - Vivliostyleを使用したレポート用テンプレート
 - [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
-- [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli)- Re:Viewと同等機能をVivlioStyleで実現するプロジェクトのCLIプログラム
+- [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli)- Re:Viewと同等機能をVivliostyleで実現するプロジェクトのCLIプログラム
 
 #### Fan magazines & Books
 
