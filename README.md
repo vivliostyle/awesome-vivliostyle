@@ -128,6 +128,7 @@
 
 #### Fan magazine & Book
 
+- [cmahnke](https://github.com/cmahnke) / [kleiderbuegel](https://github.com/cmahnke/kleiderbuegel) - Christian Mahnke's coat hanger collection book
 - [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
 - [onestop-techbook](https://github.com/onestop-techbook) / [datamanegement-vivliostyle](https://github.com/onestop-techbook/datamanegement-vivliostyle) - Vivliostyleを使って技術同人誌を書くのに最低限必要なノウハウをまとめた本
 - [Nagatani](https://github.com/Nagatani) / [techbook-java-primer](https://github.com/Nagatani/techbook-java-primer) - 大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java
