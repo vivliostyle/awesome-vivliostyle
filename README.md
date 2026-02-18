@@ -15,7 +15,7 @@
 - [Documentation & Tutorials](#documentation--tutorials)
 - [Built with Vivliostyle](#built-with-vivliostyle)
   - [Books](#books)
-- [Dependants](#dependants)
+- [Dependants (Partial List)](#dependants-partial-list)
   - [Vivliostyle.js](#vivliostylejs)
     - [Website](#website)
     - [VS Code Extension](#vs-code-extension)
@@ -75,9 +75,9 @@
 - [Web技術で「本」が作れるCSS組版 Vivliostyle入門](https://www.c-r.com/book/detail/1493)
 
 
-## [Dependants](https://github.com/vivliostyle/vivliostyle.js/network/dependents)
+## Dependants (Partial List)
 
-### Vivliostyle.js
+### [Vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js/network/dependents)
 
 #### Website
 
@@ -106,7 +106,7 @@
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
 
-### Vivliostyle CLI
+### [Vivliostyle CLI](https://github.com/vivliostyle/vivliostyle-cli/network/dependents)
 
 #### Website
 
@@ -139,7 +139,7 @@
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
 
-### vfm
+### [vfm](https://github.com/vivliostyle/vfm/network/dependents)
 
 #### Starters & Templates
 
