@@ -14,23 +14,23 @@
 - [Official](#official)
 - [Documentation & Tutorials](#documentation--tutorials)
 - [Built with Vivliostyle](#built-with-vivliostyle)
-  - [Books](#books)
+  - [Commercial Books](#commercial-books)
 - [Dependants](#dependants)
   - [Vivliostyle.js](#vivliostylejs)
     - [Website](#website)
     - [VS Code Extension](#vs-code-extension)
     - [Starters & Templates](#starters--templates)
-    - [Fan magazine & Book](#fan-magazine--book)
+    - [Fan magazines & Books](#fan-magazines--books)
     - [Others](#others)
   - [Vivliostyle CLI](#vivliostyle-cli)
-    - [Website](#website-1)
+    - [Websites](#websites)
     - [VS Code Extension](#vs-code-extension-1)
     - [Starters & Templates](#starters--templates-1)
-    - [Fan magazine & Book](#fan-magazine--book-1)
+    - [Fan magazines & Books](#fan-magazines--books-1)
     - [Others](#others-1)
   - [vfm](#vfm)
     - [Starters & Templates](#starters--templates-2)
-    - [Fan magazine & Book](#fan-magazine--book-2)
+    - [Fan magazines & Books](#fan-magazines--books-2)
     - [Others](#others-2)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
@@ -92,7 +92,7 @@
 - [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
 - [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli)
 
-#### Fan magazine & Book 
+#### Fan magazines & Books
 
 - [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
 - [macneko-ayu](https://github.com/macneko-ayu) / [vivliostyle-theme-macneko-techbook](https://github.com/macneko-ayu/vivliostyle-theme-macneko-techbook) - Vivliostyle theme for techbook
@@ -107,7 +107,7 @@
 
 ### [Vivliostyle CLI](https://github.com/vivliostyle/vivliostyle-cli/network/dependents)
 
-#### Website
+#### Websites
 
 - [JetBrains](https://github.com/JetBrains) / [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [zopyx](https://github.com/zopyx) / [print-css-rocks](https://github.com/zopyx/print-css-rocks) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
@@ -125,7 +125,7 @@
 - [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
 - [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli) - Remark・Rehypeのカスタムタグとカスタムプラグインで、Re:Viewと同等機能をVivliostyleで実現するCLIプログラム
 
-#### Fan magazine & Book
+#### Fan magazines & Books
 
 - [cmahnke](https://github.com/cmahnke) / [kleiderbuegel](https://github.com/cmahnke/kleiderbuegel) - Christian Mahnke's coat hanger collection book
 - [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
@@ -147,7 +147,7 @@
 - [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
 - [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli) - Remark・Rehypeのカスタムタグとカスタムプラグインで、Re:Viewと同等機能をVivliostyleで実現するCLIプログラム
 
-#### Fan magazine & Book
+#### Fan magazines & Books
 
 - [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
 - [macneko-ayu](https://github.com/macneko-ayu) / [vivliostyle-theme-macneko-techbook](https://github.com/macneko-ayu/vivliostyle-theme-macneko-techbook) - Vivliostyle theme for techbook
