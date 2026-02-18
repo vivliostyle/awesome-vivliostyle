@@ -12,14 +12,12 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged && pretty-quick --staged"
+      "pre-commit": "pretty-quick --staged"
     }
   },
-  "lint-staged": {
-    "*.md": [
-      "doctoc",
-      "git add"
-    ]
+  "lint-staged": {},
+  "scripts": {
+    "doctoc": "doctoc README.md"
   },
   "repository": "git@github.com:vivliostyle/awesome-vivliostyle.git",
   "license": "Apache-2.0",
