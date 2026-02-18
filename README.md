@@ -14,23 +14,23 @@
 - [Official](#official)
 - [Documentation & Tutorials](#documentation--tutorials)
 - [Built with Vivliostyle](#built-with-vivliostyle)
-  - [Commercial Books](#commercial-books)
+  - [Books](#books)
 - [Dependants](#dependants)
   - [Vivliostyle.js](#vivliostylejs)
     - [Website](#website)
     - [VS Code Extension](#vs-code-extension)
     - [Starters & Templates](#starters--templates)
-    - [Fan magazines & Books](#fan-magazines--books)
+    - [Fan magazine or Book](#fan-magazine-or-book)
     - [Others](#others)
   - [Vivliostyle CLI](#vivliostyle-cli)
-    - [Websites](#websites)
+    - [Website](#website-1)
     - [VS Code Extension](#vs-code-extension-1)
     - [Starters & Templates](#starters--templates-1)
-    - [Fan magazines & Books](#fan-magazines--books-1)
+    - [Fan magazine or Book](#fan-magazine-or-book-1)
     - [Others](#others-1)
   - [vfm](#vfm)
     - [Starters & Templates](#starters--templates-2)
-    - [Fan magazines & Books](#fan-magazines--books-2)
+    - [Fan magazine or Book](#fan-magazine-or-book-2)
     - [Others](#others-2)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
@@ -57,8 +57,9 @@
 
 ## Built with Vivliostyle
 
-### Commercial Books
+### Books
 
+- [Die Kleiderbügelsammlung Christian Mahnke](https://christianmahnke.de/en/post/coat-hangers-book/)
 - [Juliaではじめる数値計算入門](https://gihyo.jp/book/2024/978-4-297-14128-8)
 - [ラズパイPico W かんたんIoT電子工作レシピ](https://gihyo.jp/book/2024/978-4-297-14182-0)
 - [VPythonで見て学ぶ 物理シミュレーション入門](https://gihyo.jp/book/2024/978-4-297-14558-3)
@@ -74,9 +75,9 @@
 - [Web技術で「本」が作れるCSS組版 Vivliostyle入門](https://www.c-r.com/book/detail/1493)
 
 
-## Dependants (Partial List)
+## [Dependants](https://github.com/vivliostyle/vivliostyle.js/network/dependents)
 
-### [Vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js/network/dependents)
+### Vivliostyle.js
 
 #### Website
 
@@ -90,9 +91,9 @@
 
 - [yas-ako](https://github.com/yas-ako) / [my-vivliostyle-report-template](https://github.com/yas-ako/my-vivliostyle-report-template) - Vivliostyleを使用したレポート用テンプレート
 - [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
-- [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli)
+- [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli)- Re:Viewと同等機能をVivlioStyleで実現するプロジェクトのCLIプログラム
 
-#### Fan magazines & Books
+#### Fan magazine or Book 
 
 - [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
 - [macneko-ayu](https://github.com/macneko-ayu) / [vivliostyle-theme-macneko-techbook](https://github.com/macneko-ayu/vivliostyle-theme-macneko-techbook) - Vivliostyle theme for techbook
@@ -105,9 +106,9 @@
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
 
-### [Vivliostyle CLI](https://github.com/vivliostyle/vivliostyle-cli/network/dependents)
+### Vivliostyle CLI
 
-#### Websites
+#### Website
 
 - [JetBrains](https://github.com/JetBrains) / [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [zopyx](https://github.com/zopyx) / [print-css-rocks](https://github.com/zopyx/print-css-rocks) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
@@ -125,9 +126,8 @@
 - [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
 - [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli) - Remark・Rehypeのカスタムタグとカスタムプラグインで、Re:Viewと同等機能をVivliostyleで実現するCLIプログラム
 
-#### Fan magazines & Books
+#### Fan magazine or Book
 
-- [cmahnke](https://github.com/cmahnke) / [kleiderbuegel](https://github.com/cmahnke/kleiderbuegel) - Christian Mahnke's coat hanger collection book
 - [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
 - [onestop-techbook](https://github.com/onestop-techbook) / [datamanegement-vivliostyle](https://github.com/onestop-techbook/datamanegement-vivliostyle) - Vivliostyleを使って技術同人誌を書くのに最低限必要なノウハウをまとめた本
 - [Nagatani](https://github.com/Nagatani) / [techbook-java-primer](https://github.com/Nagatani/techbook-java-primer) - 大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java
@@ -139,7 +139,7 @@
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
 
-### [vfm](https://github.com/vivliostyle/vfm/network/dependents)
+### vfm
 
 #### Starters & Templates
 
@@ -147,7 +147,7 @@
 - [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
 - [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli) - Remark・Rehypeのカスタムタグとカスタムプラグインで、Re:Viewと同等機能をVivliostyleで実現するCLIプログラム
 
-#### Fan magazines & Books
+#### Fan magazine or Book
 
 - [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
 - [macneko-ayu](https://github.com/macneko-ayu) / [vivliostyle-theme-macneko-techbook](https://github.com/macneko-ayu/vivliostyle-theme-macneko-techbook) - Vivliostyle theme for techbook
