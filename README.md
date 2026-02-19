@@ -75,7 +75,8 @@
 
 ### App
 
-少年ジャンプ＋ - [iOS](https://apps.apple.com/jp/app/d875750302)、[Android](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus&hl=ja)
+- 少年ジャンプ＋ - [iOS](https://apps.apple.com/jp/app/%E5%B0%91%E5%B9%B4%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-%E4%BA%BA%E6%B0%97%E6%BC%AB%E7%94%BB%E3%81%8C%E8%AA%AD%E3%82%81%E3%82%8B%E9%9B%91%E8%AA%8C%E3%82%A2%E3%83%97%E3%83%AA/id875750302)、[Android](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus&hl=ja)
+  - [参考記事：GigaViewer for AppsにVivliostyle.jsが採用されました（Vivliostyle Blog）](https://vivliostyle.org/ja/blog/2024/04/30/gigaviewer-adopts-vivliostyle-js/)
 
 
 ## Projects Using Vivliostyle
