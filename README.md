@@ -46,10 +46,9 @@
 - [@vivliostyle/viewer](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/viewer) - A web app provides intuitive UI for Vivliostyle.
 - [@vivliostyle/cli](https://github.com/vivliostyle/vivliostyle-cli) - A command-line interface of Vivliostyle.
 - [@vivliostyle/vfm](https://github.com/vivliostyle/vfm) - Vivliostyle Flavored Markdown (VFM) is a Markdown syntax optimized for book authoring.
+- [@vivliostyle/themes](https://github.com/vivliostyle/themes) - Beautifully crafted CSS themes.
 - [@vivliostyle/react](https://github.com/vivliostyle/vivliostyle.js/tree/master/packages/react) - Use React component as a Vivliostyle renderer.
 - [@vivliostyle/print](https://github.com/vivliostyle/vivliostyle-print) - page-layouting using Vivliostyle Core for printing within a website without destroying the original layout.
-- [create-book](https://github.com/vivliostyle/create-book) - Fast & frictionless book template generator.
-- [create-vivliostyle-theme](https://github.com/vivliostyle/themes/tree/master/packages/create-vivliostyle-theme) - Create Vivliostyle theme at ease
 
 ## Documentation & Tutorials
 
