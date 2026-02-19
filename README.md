@@ -15,6 +15,7 @@
 - [Documentation & Tutorials](#documentation--tutorials)
 - [Commercial Publication](#commercial-publication)
   - [Books](#books)
+  - [App](#app)
 - [Projects Using Vivliostyle](#projects-using-vivliostyle)
   - [Vivliostyle.js](#vivliostylejs)
     - [Website](#website)
@@ -72,6 +73,10 @@
 - [そろそろ常識？ マンガでわかる「Python機械学習」](https://www.c-r.com/book/detail/1420)
 - [そろそろ常識？ マンガでわかる「HTML&CSS」](https://www.c-r.com/book/detail/1460)
 - [Web技術で「本」が作れるCSS組版 Vivliostyle入門](https://www.c-r.com/book/detail/1493)
+
+### App
+
+- 少年ジャンプ＋[iOS](https://apps.apple.com/jp/app/d875750302)、[Android](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus&hl=ja)
 
 
 ## Projects Using Vivliostyle
