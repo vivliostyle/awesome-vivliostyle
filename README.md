@@ -18,7 +18,7 @@
   - [App](#app)
 - [Projects Using Vivliostyle](#projects-using-vivliostyle)
   - [Websites](#websites)
-  - [VS Code Extensions](#vs-code-extensions)
+  - [VS Code Extension](#vs-code-extension)
   - [Starters & Templates](#starters--templates)
   - [Fan Magazines & Books](#fan-magazines--books)
   - [Others](#others)
@@ -75,7 +75,7 @@
 - [JetBrains](https://github.com/JetBrains) / [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [zopyx](https://github.com/zopyx) / [print-css-rocks](https://github.com/zopyx/print-css-rocks) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
 
-### VS Code Extensions
+### VS Code Extension
 
 - [ttrace](https://github.com/ttrace) / [vscode-language-japanese-novel](https://github.com/ttrace/vscode-language-japanese-novel) - Visual Studio Code で小説を執筆する時に使う言語拡張です。
 
