@@ -13,9 +13,9 @@
 
 - [Official](#official)
 - [Documentation & Tutorials](#documentation--tutorials)
-- [Built with Vivliostyle](#built-with-vivliostyle)
-  - [Commercial Books](#commercial-books)
-- [Dependants (Partial List)](#dependants-partial-list)
+- [Commercial Publication](#commercial-publication)
+  - [Books](#books)
+- [Projects Using Vivliostyle](#projects-using-vivliostyle)
   - [Vivliostyle.js](#vivliostylejs)
     - [Website](#website)
     - [VS Code Extension](#vs-code-extension)
@@ -55,9 +55,9 @@
 - [docs.vivliostyle.org](https://github.com/vivliostyle/docs.vivliostyle.org) - 📚 Vivliostyle Documentation.
 - [Vivliostyleが拓くCSS組版の可能性](https://gihyo.jp/list/group/Vivliostyle%E3%81%8C%E6%8B%93%E3%81%8FCSS%E7%B5%84%E7%89%88%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7) - gihyo.jp連載記事
 
-## Built with Vivliostyle
+## Commercial Publication
 
-### Commercial Books
+### Books
 
 - [Juliaではじめる数値計算入門](https://gihyo.jp/book/2024/978-4-297-14128-8)
 - [ラズパイPico W かんたんIoT電子工作レシピ](https://gihyo.jp/book/2024/978-4-297-14182-0)
@@ -74,7 +74,7 @@
 - [Web技術で「本」が作れるCSS組版 Vivliostyle入門](https://www.c-r.com/book/detail/1493)
 
 
-## Dependants (Partial List)
+## Projects Using Vivliostyle
 
 ### [Vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js/network/dependents)
 
