@@ -17,22 +17,11 @@
   - [Books](#books)
   - [App](#app)
 - [Projects Using Vivliostyle](#projects-using-vivliostyle)
-  - [Vivliostyle.js](#vivliostylejs)
-    - [Website](#website)
-    - [VS Code Extension](#vs-code-extension)
-    - [Starters & Templates](#starters--templates)
-    - [Fan magazines & Books](#fan-magazines--books)
-    - [Others](#others)
-  - [Vivliostyle CLI](#vivliostyle-cli)
-    - [Websites](#websites)
-    - [VS Code Extension](#vs-code-extension-1)
-    - [Starters & Templates](#starters--templates-1)
-    - [Fan magazines & Books](#fan-magazines--books-1)
-    - [Others](#others-1)
-  - [vfm](#vfm)
-    - [Starters & Templates](#starters--templates-2)
-    - [Fan magazines & Books](#fan-magazines--books-2)
-    - [Others](#others-2)
+  - [Websites](#websites)
+  - [VS Code Extensions](#vs-code-extensions)
+  - [Starters & Templates](#starters--templates)
+  - [Fan Magazines & Books](#fan-magazines--books)
+  - [Others](#others)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
@@ -81,47 +70,16 @@
 
 ## Projects Using Vivliostyle
 
-### [Vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js/network/dependents)
-
-#### Website
-
-- [JetBrains](https://github.com/JetBrains) / [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
-
-#### VS Code Extension
-
-- [ttrace](https://github.com/ttrace) / [vscode-language-japanese-novel](https://github.com/ttrace/vscode-language-japanese-novel) - Visual Studio Code で小説を執筆する時に使う言語拡張です。
-
-#### Starters & Templates
-
-- [yas-ako](https://github.com/yas-ako) / [my-vivliostyle-report-template](https://github.com/yas-ako/my-vivliostyle-report-template) - Vivliostyleを使用したレポート用テンプレート
-- [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
-- [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli)- Re:Viewと同等機能をVivliostyleで実現するプロジェクトのCLIプログラム
-
-#### Fan magazines & Books
-
-- [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
-- [macneko-ayu](https://github.com/macneko-ayu) / [vivliostyle-theme-macneko-techbook](https://github.com/macneko-ayu/vivliostyle-theme-macneko-techbook) - Vivliostyle theme for techbook
-- [onestop-techbook](https://github.com/onestop-techbook) / [datamanegement-vivliostyle](https://github.com/onestop-techbook/datamanegement-vivliostyle) - Vivliostyleを使って技術同人誌を書くのに最低限必要なノウハウをまとめた本
-- [Nagatani](https://github.com/Nagatani) / [techbook-java-primer](https://github.com/Nagatani/techbook-java-primer) - 大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java
-
-#### Others
-
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-insert-line-continuation-marker](https://github.com/u1f992/vivliostyle-util-insert-line-continuation-marker) - Add line continuation markers to elements.
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
-
-### [Vivliostyle CLI](https://github.com/vivliostyle/vivliostyle-cli/network/dependents)
-
-#### Websites
+### Websites
 
 - [JetBrains](https://github.com/JetBrains) / [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [zopyx](https://github.com/zopyx) / [print-css-rocks](https://github.com/zopyx/print-css-rocks) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
 
-#### VS Code Extension
+### VS Code Extensions
 
 - [ttrace](https://github.com/ttrace) / [vscode-language-japanese-novel](https://github.com/ttrace/vscode-language-japanese-novel) - Visual Studio Code で小説を執筆する時に使う言語拡張です。
 
-#### Starters & Templates
+### Starters & Templates
 
 - [yumemi-inc](https://github.com/yumemi-inc) / [daigirin-template](https://github.com/yumemi-inc/daigirin-template) - A template repository to make yumemi-daigirin books
 - [mitsuharu](https://github.com/mitsuharu) / [iosdc-pamphlet-template](https://github.com/mitsuharu/iosdc-pamphlet-template) - iOSDC Japan に投稿するパンフレット記事のテンプレートです（非公式）
@@ -130,7 +88,7 @@
 - [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
 - [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli) - Remark・Rehypeのカスタムタグとカスタムプラグインで、Re:Viewと同等機能をVivliostyleで実現するCLIプログラム
 
-#### Fan magazines & Books
+### Fan Magazines & Books
 
 - [cmahnke](https://github.com/cmahnke) / [kleiderbuegel](https://github.com/cmahnke/kleiderbuegel) - Christian Mahnke's coat hanger collection book
 - [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
@@ -138,29 +96,7 @@
 - [Nagatani](https://github.com/Nagatani) / [techbook-java-primer](https://github.com/Nagatani/techbook-java-primer) - 大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java
 - [MIDO-ruby7](https://github.com/MIDO-ruby7) / [runtechbook](https://github.com/MIDO-ruby7/runtechbook) - Markdown原稿をGitHubで提出する技術書執筆プロジェクト
 
-#### Others
-
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-insert-line-continuation-marker](https://github.com/u1f992/vivliostyle-util-insert-line-continuation-marker) - Add line continuation markers to elements.
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
-
-### [vfm](https://github.com/vivliostyle/vfm/network/dependents)
-
-#### Starters & Templates
-
-- [yas-ako](https://github.com/yas-ako) / [my-vivliostyle-report-template](https://github.com/yas-ako/my-vivliostyle-report-template) - Vivliostyleを使用したレポート用テンプレート
-- [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
-- [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli) - Remark・Rehypeのカスタムタグとカスタムプラグインで、Re:Viewと同等機能をVivliostyleで実現するCLIプログラム
-
-#### Fan magazines & Books
-
-- [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
-- [macneko-ayu](https://github.com/macneko-ayu) / [vivliostyle-theme-macneko-techbook](https://github.com/macneko-ayu/vivliostyle-theme-macneko-techbook) - Vivliostyle theme for techbook
-- [onestop-techbook](https://github.com/onestop-techbook) / [datamanegement-vivliostyle](https://github.com/onestop-techbook/datamanegement-vivliostyle) - Vivliostyleを使って技術同人誌を書くのに最低限必要なノウハウをまとめた本
-- [Nagatani](https://github.com/Nagatani) / [techbook-java-primer](https://github.com/Nagatani/techbook-java-primer) - 大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java
-- [MIDO-ruby7](https://github.com/MIDO-ruby7) / [runtechbook](https://github.com/MIDO-ruby7/runtechbook) - Markdown原稿をGitHubで提出する技術書執筆プロジェクト
-
-#### Others
+### Others
 
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-insert-line-continuation-marker](https://github.com/u1f992/vivliostyle-util-insert-line-continuation-marker) - Add line continuation markers to elements.
 - [u1f992](https://github.com/u1f992) / [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
