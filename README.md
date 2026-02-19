@@ -75,7 +75,7 @@
 
 ### App
 
-- 少年ジャンプ＋[iOS](https://apps.apple.com/jp/app/d875750302)、[Android](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus&hl=ja)
+少年ジャンプ＋ - [iOS](https://apps.apple.com/jp/app/d875750302)、[Android](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus&hl=ja)
 
 
 ## Projects Using Vivliostyle
