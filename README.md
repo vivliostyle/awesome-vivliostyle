@@ -75,14 +75,14 @@
 
 ### Books & Magazines
 
-- [Markdown原稿をGitHubで提出する技術書執筆プロジェクト](https://techbookfest.org/product/i1cLnZzGPcTRtxhtdPCBK2?productVariantID=5XM5VGmr94QpaWqVwkBjMr) - MIDO-ruby7/runtechbook
+- [RUN-NEST Hub 〜技術でつながり、楽しめる私たちの居場所〜](https://techbookfest.org/product/i1cLnZzGPcTRtxhtdPCBK2?productVariantID=5XM5VGmr94QpaWqVwkBjMr) - MIDO-ruby7/runtechbook
 - [大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java](https://vivliostyle.org/viewer/#src=https://nagatani.github.io/techbook-java-primer/publication.json) - Web公開版
-- [日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書](https://cet2kaik.booth.pm/items/6974084) - 日本机戦連盟の辞書本
-- [Vivliostyleを使って技術同人誌を書くのに最低限必要なノウハウをまとめた本](https://note.com/erukiti/n/n807dabd62c4a) - onestop-techbook の技術同人誌
+- [日本机戦連盟 厳選 燐字 東島通商語 辞書](https://cet2kaik.booth.pm/items/6974084) - 日本机戦連盟の辞書本
+- [Markdownでお手軽に高品質な技術同人誌を出す方法](https://note.com/erukiti/n/n807dabd62c4a) - onestop-techbook の技術同人誌
 - [iOS デバイスから始める Bluetooth 制御の業務用サーマルプリンター対応アプリの作り方](https://speakerdeck.com/mitsuharu/iosdc-2024-pamphlet) - iOSDC Japan 2024 パンフレット記事
 - [VivlioStyleとRehype/RemarkではじめるCSS組版による同人誌制作](https://kght6123.booth.pm/items/5757411) - げぐはつ書房の技術同人誌
 - [Redux の副作用を直感的に管理する Redux Saga を Swift でも使いたい](https://speakerdeck.com/mitsuharu/redux-saga-for-swift-contributed-to-iosdc-2023-pamphlet) - iOSDC Japan 2023 パンフレット記事
-- [Katalog: Die Kleiderbügelsammlung Christian Mahnke](https://xn--kleiderbgel-0hb.xn--blaufusstlpel-qmb.de/) - Christian Mahnke's coat hanger collection book
+- [Kleiderbügel](https://xn--kleiderbgel-0hb.xn--blaufusstlpel-qmb.de/) - Christian Mahnke's coat hanger collection book
 
 ### Tools & Utilities
 
