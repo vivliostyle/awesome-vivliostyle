@@ -18,10 +18,8 @@
   - [App](#app)
 - [Projects Using Vivliostyle](#projects-using-vivliostyle)
   - [Websites](#websites)
-  - [VS Code Extension](#vs-code-extension)
-  - [Starters & Templates](#starters--templates)
-  - [Fan Magazines & Books](#fan-magazines--books)
-  - [Others](#others)
+  - [Books & Magazines](#books--magazines)
+  - [Tools & Utilities](#tools--utilities)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
@@ -48,23 +46,23 @@
 
 ### Books
 
-- [Juliaではじめる数値計算入門（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14128-8)
-- [ラズパイPico W かんたんIoT電子工作レシピ（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14182-0)
-- [VPythonで見て学ぶ 物理シミュレーション入門（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14558-3)
-- [MSX-BASICでゲームを作ろう 懐かしくて新しいMSXで大人になった今ならわかる（技術評論社）](https://gihyo.jp/book/2025/978-4-297-14890-4)
-- [ランキング設計からはじめるスポーツデータ分析 ―⁠―MATLABであなたも予測できる（技術評論社）](https://gihyo.jp/book/2025/978-4-297-15138-6)
-- [Vulkan実践入門 グラフィックスの基礎からレイトレーシング、メッシュシェーダーまで（技術評論社）](https://gihyo.jp/book/2025/978-4-297-15257-4)
 - [API Platformを活用したPHPによる本格的なWeb API開発（技術評論社）](https://gihyo.jp/book/2026/978-4-297-15491-2)
-- [そろそろ常識？ マンガでわかる「正規表現」（C&R研究所）](https://www.c-r.com/book/detail/1360)
-- [そろそろ常識？ マンガでわかる「Linuxコマンド」（C&R研究所）](https://www.c-r.com/book/detail/1404)
-- [そろそろ常識？ マンガでわかる「Excel関数」（C&R研究所）](https://www.c-r.com/book/detail/1419)
-- [そろそろ常識？ マンガでわかる「Python機械学習」（C&R研究所）](https://www.c-r.com/book/detail/1420)
-- [そろそろ常識？ マンガでわかる「HTML&CSS」（C&R研究所）](https://www.c-r.com/book/detail/1460)
+- [Vulkan実践入門 グラフィックスの基礎からレイトレーシング、メッシュシェーダーまで（技術評論社）](https://gihyo.jp/book/2025/978-4-297-15257-4)
+- [ランキング設計からはじめるスポーツデータ分析 ―⁠―MATLABであなたも予測できる（技術評論社）](https://gihyo.jp/book/2025/978-4-297-15138-6)
+- [MSX-BASICでゲームを作ろう 懐かしくて新しいMSXで大人になった今ならわかる（技術評論社）](https://gihyo.jp/book/2025/978-4-297-14890-4)
+- [VPythonで見て学ぶ 物理シミュレーション入門（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14558-3)
+- [ラズパイPico W かんたんIoT電子工作レシピ（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14182-0)
+- [Juliaではじめる数値計算入門（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14128-8)
 - [Web技術で「本」が作れるCSS組版 Vivliostyle入門（C&R研究所）](https://www.c-r.com/book/detail/1493)
+- [そろそろ常識？ マンガでわかる「HTML&CSS」（C&R研究所）](https://www.c-r.com/book/detail/1460)
+- [そろそろ常識？ マンガでわかる「Python機械学習」（C&R研究所）](https://www.c-r.com/book/detail/1420)
+- [そろそろ常識？ マンガでわかる「Excel関数」（C&R研究所）](https://www.c-r.com/book/detail/1419)
+- [そろそろ常識？ マンガでわかる「Linuxコマンド」（C&R研究所）](https://www.c-r.com/book/detail/1404)
+- [そろそろ常識？ マンガでわかる「正規表現」（C&R研究所）](https://www.c-r.com/book/detail/1360)
 
 ### App
 
-- 少年ジャンプ＋ - [iOS](https://apps.apple.com/jp/app/%E5%B0%91%E5%B9%B4%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-%E4%BA%BA%E6%B0%97%E6%BC%AB%E7%94%BB%E3%81%8C%E8%AA%AD%E3%82%81%E3%82%8B%E9%9B%91%E8%AA%8C%E3%82%A2%E3%83%97%E3%83%AA/id875750302)、[Android](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus&hl=ja)
+- 少年ジャンプ＋（集英社） - [iOS](https://apps.apple.com/jp/app/%E5%B0%91%E5%B9%B4%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-%E4%BA%BA%E6%B0%97%E6%BC%AB%E7%94%BB%E3%81%8C%E8%AA%AD%E3%82%81%E3%82%8B%E9%9B%91%E8%AA%8C%E3%82%A2%E3%83%97%E3%83%AA/id875750302)、[Android](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus&hl=ja)
   - [参考記事：GigaViewer for AppsにVivliostyle.jsが採用されました（Vivliostyle Blog）](https://vivliostyle.org/ja/blog/2024/04/30/gigaviewer-adopts-vivliostyle-js/)
 
 
@@ -72,35 +70,26 @@
 
 ### Websites
 
-- [JetBrains](https://github.com/JetBrains) / [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [zopyx](https://github.com/zopyx) / [print-css-rocks](https://github.com/zopyx/print-css-rocks) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
+- [JetBrains](https://github.com/JetBrains) / [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 
-### VS Code Extension
+### Books & Magazines
 
-- [ttrace](https://github.com/ttrace) / [vscode-language-japanese-novel](https://github.com/ttrace/vscode-language-japanese-novel) - Visual Studio Code で小説を執筆する時に使う言語拡張です。
+- [Markdown原稿をGitHubで提出する技術書執筆プロジェクト](https://techbookfest.org/product/i1cLnZzGPcTRtxhtdPCBK2?productVariantID=5XM5VGmr94QpaWqVwkBjMr) - MIDO-ruby7/runtechbook
+- [大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java](https://vivliostyle.org/viewer/#src=https://nagatani.github.io/techbook-java-primer/publication.json) - Web公開版
+- [日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書](https://cet2kaik.booth.pm/items/6974084) - 日本机戦連盟の辞書本
+- [Vivliostyleを使って技術同人誌を書くのに最低限必要なノウハウをまとめた本](https://note.com/erukiti/n/n807dabd62c4a) - onestop-techbook の技術同人誌
+- [iOS デバイスから始める Bluetooth 制御の業務用サーマルプリンター対応アプリの作り方](https://speakerdeck.com/mitsuharu/iosdc-2024-pamphlet) - iOSDC Japan 2024 パンフレット記事
+- [VivlioStyleとRehype/RemarkではじめるCSS組版による同人誌制作](https://kght6123.booth.pm/items/5757411) - げぐはつ書房の技術同人誌
+- [Redux の副作用を直感的に管理する Redux Saga を Swift でも使いたい](https://speakerdeck.com/mitsuharu/redux-saga-for-swift-contributed-to-iosdc-2023-pamphlet) - iOSDC Japan 2023 パンフレット記事
+- [Katalog: Die Kleiderbügelsammlung Christian Mahnke](https://xn--kleiderbgel-0hb.xn--blaufusstlpel-qmb.de/) - Christian Mahnke's coat hanger collection book
 
-### Starters & Templates
+### Tools & Utilities
 
-- [yumemi-inc](https://github.com/yumemi-inc) / [daigirin-template](https://github.com/yumemi-inc/daigirin-template) - A template repository to make yumemi-daigirin books
-- [mitsuharu](https://github.com/mitsuharu) / [iosdc-pamphlet-template](https://github.com/mitsuharu/iosdc-pamphlet-template) - iOSDC Japan に投稿するパンフレット記事のテンプレートです（非公式）
-- [macneko-ayu](https://github.com/macneko-ayu) / [vivliostyle-theme-macneko-techbook](https://github.com/macneko-ayu/vivliostyle-theme-macneko-techbook) - Vivliostyle theme for techbook
-- [yas-ako](https://github.com/yas-ako) / [my-vivliostyle-report-template](https://github.com/yas-ako/my-vivliostyle-report-template) - Vivliostyleを使用したレポート用テンプレート
-- [kght6123](https://github.com/kght6123) / [techbook-template](https://github.com/kght6123/techbook-template) - げぐはつ書房で作成している技術同人誌のテンプレートです。
-- [kght6123](https://github.com/kght6123) / [techbook-template-cli](https://github.com/kght6123/techbook-template-cli) - Remark・Rehypeのカスタムタグとカスタムプラグインで、Re:Viewと同等機能をVivliostyleで実現するCLIプログラム
-
-### Fan Magazines & Books
-
-- [cmahnke](https://github.com/cmahnke) / [kleiderbuegel](https://github.com/cmahnke/kleiderbuegel) - Christian Mahnke's coat hanger collection book
-- [sozysozbot](https://github.com/sozysozbot) / [linzklar_and_pmcp_paper_dictionary](https://github.com/sozysozbot/linzklar_and_pmcp_paper_dictionary) - 日本机戦連盟 厳選燐字辞書・日本机戦連盟 厳選東島通商語辞書
-- [onestop-techbook](https://github.com/onestop-techbook) / [datamanegement-vivliostyle](https://github.com/onestop-techbook/datamanegement-vivliostyle) - Vivliostyleを使って技術同人誌を書くのに最低限必要なノウハウをまとめた本
-- [Nagatani](https://github.com/Nagatani) / [techbook-java-primer](https://github.com/Nagatani/techbook-java-primer) - 大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java
-- [MIDO-ruby7](https://github.com/MIDO-ruby7) / [runtechbook](https://github.com/MIDO-ruby7/runtechbook) - Markdown原稿をGitHubで提出する技術書執筆プロジェクト
-
-### Others
-
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-insert-line-continuation-marker](https://github.com/u1f992/vivliostyle-util-insert-line-continuation-marker) - Add line continuation markers to elements.
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
-- [u1f992](https://github.com/u1f992) / [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
+- [vivliostyle-util-insert-line-continuation-marker](https://github.com/u1f992/vivliostyle-util-insert-line-continuation-marker) - Add line continuation markers to elements
+- [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
+- [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
+- [novel-writer（Visual Studio小説モード）](https://github.com/ttrace/vscode-language-japanese-novel) - Visual Studio Code で小説を執筆する時に使う言語拡張
 
 ## Other Awesome Lists
 
