@@ -48,19 +48,19 @@
 
 ### Books
 
-- [Juliaではじめる数値計算入門](https://gihyo.jp/book/2024/978-4-297-14128-8)
-- [ラズパイPico W かんたんIoT電子工作レシピ](https://gihyo.jp/book/2024/978-4-297-14182-0)
-- [VPythonで見て学ぶ 物理シミュレーション入門](https://gihyo.jp/book/2024/978-4-297-14558-3)
-- [MSX-BASICでゲームを作ろう 懐かしくて新しいMSXで大人になった今ならわかる](https://gihyo.jp/book/2025/978-4-297-14890-4)
-- [ランキング設計からはじめるスポーツデータ分析 ―⁠―MATLABであなたも予測できる](https://gihyo.jp/book/2025/978-4-297-15138-6)
-- [Vulkan実践入門 グラフィックスの基礎からレイトレーシング、メッシュシェーダーまで](https://gihyo.jp/book/2025/978-4-297-15257-4)
-- [API Platformを活用したPHPによる本格的なWeb API開発](https://gihyo.jp/book/2026/978-4-297-15491-2)
-- [そろそろ常識？ マンガでわかる「正規表現」](https://www.c-r.com/book/detail/1360)
-- [そろそろ常識？ マンガでわかる「Linuxコマンド」](https://www.c-r.com/book/detail/1404)
-- [そろそろ常識？ マンガでわかる「Excel関数」](https://www.c-r.com/book/detail/1419)
-- [そろそろ常識？ マンガでわかる「Python機械学習」](https://www.c-r.com/book/detail/1420)
-- [そろそろ常識？ マンガでわかる「HTML&CSS」](https://www.c-r.com/book/detail/1460)
-- [Web技術で「本」が作れるCSS組版 Vivliostyle入門](https://www.c-r.com/book/detail/1493)
+- [Juliaではじめる数値計算入門（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14128-8)
+- [ラズパイPico W かんたんIoT電子工作レシピ（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14182-0)
+- [VPythonで見て学ぶ 物理シミュレーション入門（技術評論社）](https://gihyo.jp/book/2024/978-4-297-14558-3)
+- [MSX-BASICでゲームを作ろう 懐かしくて新しいMSXで大人になった今ならわかる（技術評論社）](https://gihyo.jp/book/2025/978-4-297-14890-4)
+- [ランキング設計からはじめるスポーツデータ分析 ―⁠―MATLABであなたも予測できる（技術評論社）](https://gihyo.jp/book/2025/978-4-297-15138-6)
+- [Vulkan実践入門 グラフィックスの基礎からレイトレーシング、メッシュシェーダーまで（技術評論社）](https://gihyo.jp/book/2025/978-4-297-15257-4)
+- [API Platformを活用したPHPによる本格的なWeb API開発（技術評論社）](https://gihyo.jp/book/2026/978-4-297-15491-2)
+- [そろそろ常識？ マンガでわかる「正規表現」（C&R研究所）](https://www.c-r.com/book/detail/1360)
+- [そろそろ常識？ マンガでわかる「Linuxコマンド」（C&R研究所）](https://www.c-r.com/book/detail/1404)
+- [そろそろ常識？ マンガでわかる「Excel関数」（C&R研究所）](https://www.c-r.com/book/detail/1419)
+- [そろそろ常識？ マンガでわかる「Python機械学習」（C&R研究所）](https://www.c-r.com/book/detail/1420)
+- [そろそろ常識？ マンガでわかる「HTML&CSS」（C&R研究所）](https://www.c-r.com/book/detail/1460)
+- [Web技術で「本」が作れるCSS組版 Vivliostyle入門（C&R研究所）](https://www.c-r.com/book/detail/1493)
 
 ### App
 
