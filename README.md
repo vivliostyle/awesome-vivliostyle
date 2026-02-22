@@ -82,7 +82,7 @@
 - [iOS デバイスから始める Bluetooth 制御の業務用サーマルプリンター対応アプリの作り方](https://speakerdeck.com/mitsuharu/iosdc-2024-pamphlet) - iOSDC Japan 2024 パンフレット記事
 - [VivlioStyleとRehype/RemarkではじめるCSS組版による同人誌制作](https://kght6123.booth.pm/items/5757411) - げぐはつ書房の技術同人誌
 - [Redux の副作用を直感的に管理する Redux Saga を Swift でも使いたい](https://speakerdeck.com/mitsuharu/redux-saga-for-swift-contributed-to-iosdc-2023-pamphlet) - iOSDC Japan 2023 パンフレット記事
-- [Kleiderbügel](https://xn--kleiderbgel-0hb.xn--blaufusstlpel-qmb.de/) - Christian Mahnke's coat hanger collection book
+- [Die Kleiderbügelsammlung Christian Mahnke](https://christianmahnke.de/en/post/coat-hangers-book/) - Christian Mahnke's coat hanger collection book
 
 ### Tools & Utilities
 
