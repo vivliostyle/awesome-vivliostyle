@@ -17,9 +17,10 @@
   - [Books](#books)
   - [App](#app)
 - [Projects Using Vivliostyle](#projects-using-vivliostyle)
-  - [Websites](#websites)
+  - [Website](#website)
   - [Books & Magazines](#books--magazines)
   - [Tools & Utilities](#tools--utilities)
+  - [PrintCSS sites](#printcss-sites)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
@@ -68,10 +69,9 @@
 
 ## Projects Using Vivliostyle
 
-### Websites
+### Website
 
-- [zopyx](https://github.com/zopyx) / [print-css-rocks](https://github.com/zopyx/print-css-rocks) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
-- [JetBrains](https://github.com/JetBrains) / [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
+- [Kotlin documentation as PDF](https://kotlinlang.org/docs/kotlin-pdf.html) - Official Kotlin documentation in PDF format
 
 ### Books & Magazines
 
@@ -91,6 +91,11 @@
 - [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
 - [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
 - [novel-writer（Visual Studio小説モード）](https://github.com/ttrace/vscode-language-japanese-novel) - Visual Studio Code で小説を執筆する時に使う言語拡張
+
+### PrintCSS sites
+
+- [PrintCSS Playground](https://printcss.live/) - A playground for testing CSS Paged Media features in the browser
+- [print-css.rocks](https://print-css.rocks/) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
 
 ## Other Awesome Lists
 
