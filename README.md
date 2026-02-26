@@ -40,7 +40,7 @@
 
 ## Documentation & Tutorials
 
-- [docs.vivliostyle.org](https://github.com/vivliostyle/docs.vivliostyle.org) - 📚 Vivliostyle Documentation.
+- [docs.vivliostyle.org](https://github.com/vivliostyle/docs2.vivliostyle.org) - 📚 Vivliostyle Documentation.
 - [Vivliostyleが拓くCSS組版の可能性](https://gihyo.jp/list/group/Vivliostyle%E3%81%8C%E6%8B%93%E3%81%8FCSS%E7%B5%84%E7%89%88%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7) - gihyo.jp連載記事
 
 ## Commercial Publication
