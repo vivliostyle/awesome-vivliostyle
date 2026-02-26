@@ -92,7 +92,7 @@
 - [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
 - [novel-writer（Visual Studio小説モード）](https://github.com/ttrace/vscode-language-japanese-novel) - 縦書きの小説執筆環境を実現するVisual Studio Code 機能拡張
 
-### PrintCSS sites
+### Print CSS sites
 
 - [PrintCSS Playground](https://printcss.live/) - A playground for testing CSS Paged Media features in the browser
 - [print-css.rocks](https://print-css.rocks/) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
