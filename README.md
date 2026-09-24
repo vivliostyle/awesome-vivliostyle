@@ -74,11 +74,11 @@
 ### Website
 
 - [Kotlin documentation as PDF](https://kotlinlang.org/docs/kotlin-pdf.html) - Official Kotlin documentation in PDF format
+- [すごいぞ、Vivliostyle！ - 自分で組版ができるようになった](https://www.moonlight-lullaby.info/post/2026/09_06_1848/) - 自費出版した原稿をVivliostyleで復刻した記録
 
 ### Books & Magazines
 
 - [Vivliostyle で番号を振る](https://github.com/mat-der-D/vivliostyle-numbering) - 章・節・定理・図・式・ページ・脚注・文献の番号と相互参照の実装例。本自身がその方法で組まれている
-- [すごいぞ、Vivliostyle！ - 自分で組版ができるようになった](https://www.moonlight-lullaby.info/post/2026/09_06_1848/) - 自費出版した原稿をVivliostyleで復刻した記録
 - [RUN-NEST Hub 〜技術でつながり、楽しめる私たちの居場所〜](https://techbookfest.org/product/i1cLnZzGPcTRtxhtdPCBK2?productVariantID=5XM5VGmr94QpaWqVwkBjMr) - MIDO-ruby7/runtechbook
 - [大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java](https://vivliostyle.org/viewer/#src=https://nagatani.github.io/techbook-java-primer/publication.json) - Web公開版
 - [日本机戦連盟 厳選 燐字 東島通商語 辞書](https://cet2kaik.booth.pm/items/6974084) - 日本机戦連盟の辞書本
