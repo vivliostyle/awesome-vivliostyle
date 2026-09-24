@@ -20,7 +20,7 @@
   - [Website](#website)
   - [Books & Magazines](#books--magazines)
   - [Tools & Utilities](#tools--utilities)
-  - [PrintCSS sites](#printcss-sites)
+  - [Print CSS sites](#print-css-sites)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 

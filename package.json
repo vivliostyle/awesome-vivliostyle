@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io)",
   "devDependencies": {
-    "doctoc": "^2.0.0",
+    "doctoc": "^2.5.0",
     "husky": "^4.2.5",
     "prettier": "^3.0.0",
     "pretty-quick": "^4.0.0"
