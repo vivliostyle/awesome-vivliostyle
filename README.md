@@ -42,6 +42,7 @@
 
 - [docs.vivliostyle.org](https://docs.vivliostyle.org/) - 📚 Vivliostyle Documentation.
 - [Vivliostyleが拓くCSS組版の可能性](https://gihyo.jp/list/group/Vivliostyle%E3%81%8C%E6%8B%93%E3%81%8FCSS%E7%B5%84%E7%89%88%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7) - gihyo.jp連載記事
+- [すごいぞ、Vivliostyle！ - 自分で組版ができるようになった](https://www.moonlight-lullaby.info/post/2026/09_06_1848/) - 自費出版した原稿をVivliostyleで復刻した記録
 
 ## Commercial Publication
 
@@ -77,6 +78,7 @@
 
 ### Books & Magazines
 
+- [Vivliostyle で番号を振る](https://github.com/mat-der-D/vivliostyle-numbering) - 章・節・定理・図・式・ページ・脚注・文献の番号と相互参照の実装例。本自身がその方法で組まれている
 - [RUN-NEST Hub 〜技術でつながり、楽しめる私たちの居場所〜](https://techbookfest.org/product/i1cLnZzGPcTRtxhtdPCBK2?productVariantID=5XM5VGmr94QpaWqVwkBjMr) - MIDO-ruby7/runtechbook
 - [大学2年生のための実践的プログラミング入門 オブジェクト指向言語 Java](https://vivliostyle.org/viewer/#src=https://nagatani.github.io/techbook-java-primer/publication.json) - Web公開版
 - [日本机戦連盟 厳選 燐字 東島通商語 辞書](https://cet2kaik.booth.pm/items/6974084) - 日本机戦連盟の辞書本
