@@ -95,6 +95,7 @@
 - [vivliostyle-util-import-pdf](https://github.com/u1f992/vivliostyle-util-import-pdf) - PDFをインポートするVivliostyleユーティリティ
 - [vivliostyle-util-scale-to-natural-size](https://github.com/u1f992/vivliostyle-util-scale-to-natural-size) - 画像を自然サイズにスケーリングするVivliostyleユーティリティ
 - [novel-writer（Visual Studio小説モード）](https://github.com/ttrace/vscode-language-japanese-novel) - 縦書きの小説執筆環境を実現するVisual Studio Code 機能拡張
+- [make-my-textbook](https://github.com/ganggangstone/make-my-textbook) - A Claude Code skill and a Markdown-to-PDF pipeline (built on @vivliostyle/cli) that turns code and papers into study textbooks, in Korean and English
 
 ### Print CSS sites
 
